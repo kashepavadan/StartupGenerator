@@ -8,7 +8,7 @@
 	<div id="generator">
 		<h1>The Unoffical University of Waterloo Startup Generator</h1>
 		<br>
-		<h2>You should make a: [INSERT PHP HERE]</h2>
+		<h2>You should make a: <?php include 'wordgen.php';?></h2>
 		<br>
 		<div>
 			<br>
@@ -23,7 +23,7 @@
 	</div>
 	<h4>
 		<br>
-		2015 Made by Richard Shi and Daniel Marin. Logo and trademark property of the University of Waterloo. 
+		2015 Made by Richard Shi and Daniel Kashepava. Logo and trademark property of the University of Waterloo. 
 	<h4>
 </body>
 </html>
